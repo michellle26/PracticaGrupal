@@ -26,6 +26,6 @@
     <h2> Herencia</h2>
     <p>La herencia permite que una clase hija (subclase) adquiera los atributos y métodos de una clase padre (superclase) para reutilizar código. En Java se aplica utilizando la palabra clave extends en la declaración de la clase hija.</p>
     <p>También se utiliza la palabra clave super para invocar constructores o métodos de la clase padre. Cabe destacar que Java solo admite herencia simple, es decir, una clase hija solo puede heredar directamente de una clase padre.</p>
-
+.
 </body>
 </html>
